@@ -262,7 +262,7 @@ function App() {
                         <div className="relative animate-float">
                             <div className="rounded-[28px] shadow-soft overflow-hidden ring-4 ring-cream/60 bg-cream/80 border border-gold/10">
                                 <img
-                                    src="/public/head.jpeg"
+                                    src="/head.jpeg"
                                     alt="Luxurious spice garlands on wedding platter"
                                     className="aspect-[4/5]"
                                 />
