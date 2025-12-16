@@ -201,7 +201,7 @@ function App() {
             >
                 <div className="absolute inset-0 opacity-70 border-[1px] border-[#ede3d7]">
                     <img
-                        src="/public/head.jpeg"
+                        src="/head.jpeg"
                         alt="Traditional South Indian wedding garlands"
                         className="h-full w-full object-cover"
                     />
@@ -383,7 +383,7 @@ function App() {
                         <div className="relative animate-float">
                             <div className="rounded-[28px] bg-white/80 p-3 shadow-soft ring-4 ring-cream/70 border border-gold/15">
                                 <img
-                                    src="/public/god.jpg"
+                                    src="/god.jpg"
                                     alt="Artisan preparing spice garlands"
                                     className="rounded-2xl"
                                 />
